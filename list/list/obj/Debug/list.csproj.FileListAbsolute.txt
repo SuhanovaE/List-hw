@@ -1,0 +1,7 @@
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ОАП\list\list\bin\Debug\list.exe.config
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ОАП\list\list\bin\Debug\list.exe
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ОАП\list\list\bin\Debug\list.pdb
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ОАП\list\list\obj\Debug\list.csproj.AssemblyReference.cache
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ОАП\list\list\obj\Debug\list.csproj.CoreCompileInputs.cache
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ОАП\list\list\obj\Debug\list.exe
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ОАП\list\list\obj\Debug\list.pdb
